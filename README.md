@@ -1,5 +1,5 @@
 ### Hi there 👋
-i'm currently working on the ibarber app admin panel  ¯\_(シ)_/¯
+i'm currently working on the ibarber app admin panel  ¯\\_(シ)_/¯
 
 <!--
 **effati78/effati78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
