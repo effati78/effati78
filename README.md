@@ -1,10 +1,9 @@
 	
 ### Hi there, I'm [REZA!](https://effati78.github.io) 👋
 <br />
-
 Hi, I'm Reza Effati Moghaddam, a front-end web developer from Iran.
 
-- 🔭 I’m currently working on [IBarberServer](https://github.com/mohsen2986/IBarberServer) and [Ivents](https://github.com/paarand-web-developers/Ivents)
+- 🔭 I’m currently working on [IBarberServer](https://github.com/effati78/#) and [Ivents](https://github.com/effati78/#)
 - 🌱 I’m currently learning React JS
 - 💬 Ask me about anything [here](https://github.com/effati78/effati78/issues)
 	
