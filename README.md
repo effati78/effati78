@@ -1,6 +1,6 @@
 	
 ### Hi there! 👋
-*__I'm [Reza Effati Moghaddam](https://effati78.github.io), a front-end web developer at [Paarand](https://paarandprocess.com/).__*
+*__I'm Reza Effati Moghaddam, a front-end web developer at [Paarand](https://paarandprocess.com/).__*
 
 📫 How to reach me:<br>
 [![Twitter](https://img.shields.io/badge/-Twitter-ffc700?style=flat-square&logo=Twitter&logoColor=444)](https://twitter.com/effati78)
@@ -25,7 +25,7 @@
 ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-34495e?style=flat-square&logo=Google%20Chrome&logoColor=fff)
 
 <a href="https://github.com/effati78">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=effati78&count_private=true&hide=issues,contributedTo&show_icons=true&include_all_commits=true&theme=gruvbox" alt="REZA's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=effati78&count_private=true&hide=issues&show_icons=true&include_all_commits=true&theme=gruvbox" alt="REZA's github stats" />
 </a>
 <a href="https://github.com/effati78">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=effati78&layout=compact&theme=gruvbox" />
