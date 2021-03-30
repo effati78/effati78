@@ -1,8 +1,6 @@
 	
-### Hi there, I'm [REZA!](https://effati78.github.io) 👋
-<br />
-	
-*__I'm Reza Effati Moghaddam, a front-end web developer from Iran.__*
+### Hi there! 👋
+*__I'm [Reza Effati Moghaddam](https://effati78.github.io), a front-end web developer at [Paarand](https://paarandprocess.com/).__*
 
 📫 How to reach me:<br>
 [![Twitter](https://img.shields.io/badge/-Twitter-ffc700?style=flat-square&logo=Twitter&logoColor=444)](https://twitter.com/effati78)
