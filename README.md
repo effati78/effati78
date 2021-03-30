@@ -1,7 +1,7 @@
 ### Hi there 👋
 i'm currently working on IBarberServer and ivents repositories . .. ... シ
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=effati78&theme=merko&show_icons=true)](https://github.com/effati78)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=effati78&theme=gruvbox&show_icons=true)](https://github.com/effati78)
 
 <!--
 **effati78/effati78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
