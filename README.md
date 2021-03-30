@@ -1,19 +1,16 @@
-### Hi there 👋
-i'm currently working on IBarberServer and ivents repositories . .. ... シ
+	
+### Hi there, I'm [REZA!](https://effati78.github.io) 👋
+<br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=effati78&theme=gruvbox&show_icons=true)](https://github.com/effati78)
+Hi, I'm Reza Effati Moghaddam, a front-end web developer from Iran.
 
-<!--
-**effati78/effati78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [IBarberServer](https://github.com/mohsen2986/IBarberServer) and [Ivents](https://github.com/paarand-web-developers/Ivents)
+- 🌱 I’m currently learning React JS
+- 💬 Ask me about anything [here](https://github.com/effati78/effati78/issues)
+	
+<a href="https://github.com/effati78">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=effati78&show_icons=true&include_all_commits=true&theme=gruvbox" alt="REZA's github stats" />
+</a>
+<a href="https://github.com/effati78">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=effati78&layout=compact&theme=gruvbox" />
+</a>
