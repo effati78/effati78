@@ -34,4 +34,4 @@
 <br />
 <br />
 
-[![GitHub Harshita-Kanal](https://img.shields.io/github/followers/effati78?label=follow&style=social)](https://github.com/effati78)
+[![follow](https://img.shields.io/github/followers/effati78?label=follow&style=social)](https://github.com/effati78)
