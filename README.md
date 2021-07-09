@@ -10,4 +10,4 @@
 <br>
 
 🌱 I’m currently learning:<br>
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=20232a)
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=Vue.js&logoColor=35495e)
