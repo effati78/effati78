@@ -1,5 +1,5 @@
 	
-### Hi there! I'm Reza! 👋
+### Hi there, I'm Reza! 👋
 <br/>
 
 **📫 How to reach me:**
