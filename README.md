@@ -1,5 +1,5 @@
 	
-### Hi there, I'm Reza! 👋
+### Hi there, I'm Reza! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br/>
 
 **📫 How to reach me:**
