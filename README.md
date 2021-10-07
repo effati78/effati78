@@ -1,26 +1,10 @@
+[![Hi there, I'm Reza!](https://github.com/effati78/effati78/blob/main/header.png)](https://github.com/effati78?tab=repositories)
+
+<div align="center">
 	
-### Hi there, I'm Reza! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br/>
+[![Twitter](https://img.shields.io/badge/-Twitter-5CC058?style=flat-square&logo=Twitter&logoColor=000000&textColor=000000)](https://twitter.com/effati78)
+[![Instagram](https://img.shields.io/badge/-Instagram-5CC058?style=flat-square&logo=Instagram&logoColor=000000&textColor=000000)](https://Instagram.com/effati78)
+[![Telegram](https://img.shields.io/badge/-Telegram-5CC058?style=flat-square&logo=Telegram&logoColor=000000&textColor=000000)](https://t.me/effati78)
+[![Email](https://img.shields.io/badge/-Email-5CC058?style=flat-square&logo=Gmail&logoColor=000000&textColor=000000)](mailto:effati78@pm.me)
 
-**📫 How to reach me:**
-<br/>
-[![Twitter](https://img.shields.io/badge/-Twitter-ffc700?style=flat-square&logo=Twitter&logoColor=444&textColor=444)](https://twitter.com/effati78)
-[![Instagram](https://img.shields.io/badge/-Instagram-ffc700?style=flat-square&logo=Instagram&logoColor=444&textColor=444)](https://Instagram.com/effati78)
-[![Telegram](https://img.shields.io/badge/-Telegram-ffc700?style=flat-square&logo=Telegram&logoColor=444&textColor=444)](https://t.me/effati78)
-[![Email](https://img.shields.io/badge/-Email-ffc700?style=flat-square&logo=Gmail&logoColor=444&textColor=444)](mailto:effati78@pm.me)
-<!-- <br/>
-<br/>
-
-**🌱 Languages and Tools:**
-<br/>
-<div style="white-space: pre">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">
-
-</div> -->
+</div>
