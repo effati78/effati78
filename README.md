@@ -7,8 +7,12 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-40C057?style=flat-square&logo=Telegram&logoColor=ffffff&textColor=ffffff)](https://t.me/effati78)
 [![Email](https://img.shields.io/badge/-Email-40C057?style=flat-square&logo=Gmail&logoColor=ffffff&textColor=ffffff)](mailto:effati78@pm.me)
 
-<a href="http://www.coffeete.ir/effati78">
-<img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:150px;" />
-</a>
+</div>
 
+<div align="left">
+
+<a href="http://www.coffeete.ir/effati78">
+<img src="https://github.com/effati78/effati78/blob/main/c0ffee-cup.png" style="width:40px;" />
+</a>
+	
 </div>
