@@ -11,8 +11,8 @@
 
 <div align="left">
 
-<a href="http://www.coffeete.ir/effati78">
-<img src="https://github.com/effati78/effati78/blob/main/c0ffee-cup.png" style="width:40px;" />
+<a href="http://www.coffeete.ir/effati78" style="color: #40C057; text-decoration: underline;text-decoration-style: dotted;">
+<img src="https://github.com/effati78/effati78/blob/main/c0ffee-cup.png" style="width:7%; margin:0 5px 0 0;" /> <sup>donate my coffee</sup>
 </a>
 	
 </div>
