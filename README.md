@@ -11,6 +11,6 @@
 
 <div align="center">
 
-[![Donate_My_Coffee](https://img.shields.io/badge/-Donate_My_Coffee-8D6852?style=flat-square&logo=java&logoColor=ffffff&textColor=ffffff)](http://www.coffeete.ir/effati78)
+[![Donate_My_Coffee](https://img.shields.io/badge/-Donate_a_Coffee-8D6852?style=flat-square&logo=java&logoColor=ffffff&textColor=ffffff)](http://www.coffeete.ir/effati78)
 
 </div>
