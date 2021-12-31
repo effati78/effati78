@@ -15,9 +15,3 @@
 [![Buy me a coffee](https://img.shields.io/badge/-Buy_me_a_coffee-8D6852?style=flat-square&logo=java&logoColor=ffffff&textColor=ffffff)](http://www.coffeete.ir/effati78)
 
 </div>
-
-<center>
-	
-<img src="https://github-readme-stats.vercel.app/api?username=effati78&theme=algolia" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=effati78&layout=compact&theme=algolia" height="180" />
-
-</center>
