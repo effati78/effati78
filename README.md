@@ -10,6 +10,11 @@
  -->
 </div>
 
+<div align="center">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
 <!-- <div align="center">
 
 [![Buy me a coffee](https://img.shields.io/badge/-Buy_me_a_coffee-8D6852?style=flat-square&logo=java&logoColor=ffffff&textColor=ffffff)](http://www.coffeete.ir/effati78)
