@@ -1,6 +1,6 @@
 <div align="center">
 	
-[![Hi there, I'm Reza!](https://github.com/effati78/effati78/blob/main/poster.png)](https://webazto.ir)
+[![Hi there, I'm Reza!](https://github.com/effati78/effati78/blob/main/effati78.gif)](https://zil.ink/effati78)
 
 </div>
 
