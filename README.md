@@ -1,4 +1,4 @@
-#### My Social Networks
+### My Social Networks
 
 <a href="https://www.linkedin.com/in/effati78" target="_blank">
 <img src="https://github.com/effati78/effati78/blob/main/l.jpg" alt="linkedin" width="85">
@@ -15,6 +15,8 @@
 <a href="https://t.me/effati78" target="_blank">
 <img src="https://github.com/effati78/effati78/blob/main/g.jpg" alt="telegram" width="85">
 </a>
+
+<hr>
 
 <div align="center">
 
