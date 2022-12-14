@@ -25,7 +25,5 @@
 </p>
 
 <div align="center">
-
-![snake gif](https://github.com/effati78/effati78/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-
+<img src="https://github.com/effati78/effati78/blob/output/github-contribution-grid-snake.svg">
 </div>
