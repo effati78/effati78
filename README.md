@@ -21,7 +21,7 @@
 #### Github Profile Details
 
 <p align="left">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=effati78&theme=github_dark"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=effati78&theme=github"/>
 </p>
 
 <div align="center">
