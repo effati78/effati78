@@ -21,12 +21,13 @@
 #### Github Profile Details
 
 <p align="left">
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=effati78&theme=github_dark"/>
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=effati78&theme=github_dark"/>
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=effati78&theme=github_dark&utcOffset=8"/>
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=effati78&theme=github_dark"/>
+<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=effati78&theme=github_dark"/>
+<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=effati78&theme=github_dark"/>
+<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=effati78&theme=github_dark&utcOffset=8"/>
+<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=effati78&theme=github_dark"/>
+<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=effati78&theme=github_dark"/>
 </p>
 
-<div align="center">
-<img src="https://github.com/effati78/effati78/blob/output/github-contribution-grid-snake.svg?palette=github">
+<div align="left">
+<img height="160em" src="https://github.com/effati78/effati78/blob/output/github-contribution-grid-snake.svg?palette=github">
 </div>
