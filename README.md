@@ -18,6 +18,12 @@
 <img src="https://user-images.githubusercontent.com/56348113/202894127-727e0f44-c95c-46af-b1bd-63bb850de110.svg" alt="telegram" width="70">
 </a>
 
+#### Github Profile Details
+
+<p align="left">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=effati78&theme=github_dark"/>
+</p>
+
 <div align="center">
 
 ![snake gif](https://github.com/effati78/effati78/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
