@@ -28,6 +28,6 @@
 <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=effati78&theme=github_dark"/>
 </p>
 
-<div align="left">
+<!-- <div align="left">
 <img height="160em" src="https://github.com/effati78/effati78/blob/output/github-contribution-grid-snake.svg?palette=github">
-</div>
+</div> -->
