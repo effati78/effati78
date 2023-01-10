@@ -38,6 +38,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-Github-000?&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-Gitlab-000?&logo=GitLab)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Cpp](https://img.shields.io/badge/-C%2B%2B-000?&logo=C%2B%2B)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
