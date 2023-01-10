@@ -48,6 +48,7 @@
 ### Stay in touch:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/effati78/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/effati78/)
+[![protonmail](https://img.shields.io/badge/-effati78@pm.me-000?&logo=protonmail)](mailto:effati78@pm.me)
 
 ### Github Profile Details:
 
