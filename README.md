@@ -45,7 +45,8 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
 ![WindowsForms](https://img.shields.io/badge/-WinForms-000?&logo=csharp)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)  
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)  
 
 ### Stay in touch:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/effati78/)
