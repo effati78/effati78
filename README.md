@@ -52,6 +52,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode&logoColor=307CB1)
 ![vim](https://img.shields.io/badge/-Vim-000?&logo=vim&logoColor=479433)
 ![prettier](https://img.shields.io/badge/-Prettier-000?&logo=prettier)
+![telegraf](https://img.shields.io/badge/-Telegraf-000?&logo=telegram)
 
 ### Stay in touch:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/effati78/)
