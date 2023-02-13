@@ -50,6 +50,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
+![tmux](https://img.shields.io/badge/-Tmux-000?&logo=tmux)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode&logoColor=307CB1)
 ![vim](https://img.shields.io/badge/-Vim-000?&logo=vim&logoColor=479433)
 ![prettier](https://img.shields.io/badge/-Prettier-000?&logo=prettier)
