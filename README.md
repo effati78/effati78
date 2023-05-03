@@ -1,76 +1,14 @@
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Joti+One&size=40&pause=1000&color=6CC644&vCenter=true&width=590&lines=I'm+Reza+Effati+Moghaddam;Web+Developer;Experienced+UI%2FUX+Designer;4%2B+years+of+coding+experience;Always+learning+a+new+things)](https://git.io/typing-svg)
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/effati78) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/effati78) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12168608) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/effati78) 
 
-#### My Social Networks
+### 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=AEDDFF) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<a href="https://www.linkedin.com/in/effati78" target="_blank">
-<img src="https://user-images.githubusercontent.com/56348113/202894111-e6dda54b-8937-47ac-93f6-770617cda70c.svg" alt="linkedin" width="70">
-</a>
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=effati78&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
 
-<a href="https://twitter.com/effati78" target="_blank">
-<img src="https://user-images.githubusercontent.com/56348113/202894121-0acdc7d4-8b42-4bc4-ae27-ae41ab93c32a.svg" alt="twitter" width="70">
-</a>
-
-<a href="https://www.instagram.com/effati78/" target="_blank">
-<img src="https://user-images.githubusercontent.com/56348113/202894124-1ad37b41-e42a-4bef-afbf-cdfb872165e9.svg" alt="instagram" width="70">
-</a>
-
-<a href="https://t.me/effati78" target="_blank">
-<img src="https://user-images.githubusercontent.com/56348113/202894127-727e0f44-c95c-46af-b1bd-63bb850de110.svg" alt="telegram" width="70">
-</a> -->
-
-<h1 align="left">Hi there, I am Reza Effati Moghaddam 👋</h1>
-  
-### Technology:
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery&logoColor=007ACC)
-![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
-![PostCSS](https://img.shields.io/badge/-PostCSS-000?&logo=PostCSS&logoColor=D23925)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
-![PWA](https://img.shields.io/badge/-PWA-000?&logo=PWA)
-![Gulp.js](https://img.shields.io/badge/-Gulp.js-000?&logo=Gulp)
-![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
-![npm](https://img.shields.io/badge/-NPM-000?&logo=npm)
-![yarn](https://img.shields.io/badge/-Yarn-000?&logo=yarn)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![GitHub](https://img.shields.io/badge/-Github-000?&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-Gitlab-000?&logo=GitLab)
-![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Cpp](https://img.shields.io/badge/-C%2B%2B-000?&logo=C%2B%2B&logoColor=6092C7)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
-![WindowsForms](https://img.shields.io/badge/-WinForms-000?&logo=csharp&logoColor=9468CC)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
-![tmux](https://img.shields.io/badge/-Tmux-000?&logo=tmux)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode&logoColor=307CB1)
-![vim](https://img.shields.io/badge/-Vim-000?&logo=vim&logoColor=479433)
-![prettier](https://img.shields.io/badge/-Prettier-000?&logo=prettier)
-![telegraf](https://img.shields.io/badge/-Telegraf.js-000?&logo=telegram)
-
-### Stay in touch:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/effati78/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/effati78/)
-[![protonmail](https://img.shields.io/badge/-effati78@pm.me-000?&logo=protonmail)](mailto:effati78@pm.me)
-
-### Github Profile Details:
-
-<p align="left">
-<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=effati78&theme=github_dark"/>
-<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=effati78&theme=github_dark"/>
-<!-- <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=effati78&theme=github_dark&utcOffset=8"/> -->
-<!-- <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=effati78&theme=github_dark"/> -->
-<!-- <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=effati78&theme=github_dark"/> -->
-</p>
-
-<!-- <div align="left">
-<img height="160em" src="https://github.com/effati78/effati78/blob/output/github-contribution-grid-snake.svg?palette=github">
-</div> -->
+<!-- ### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+ -->
+---
+[![](https://visitcount.itsvg.in/api?id=effati78&icon=6&color=0)](https://visitcount.itsvg.in)
