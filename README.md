@@ -11,4 +11,4 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
  -->
 ---
-[![](https://visitcount.itsvg.in/api?id=effati78&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=effati78&icon=6&color=6)](https://www.coffeete.ir/effati78)
