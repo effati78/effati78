@@ -10,5 +10,8 @@
 <!-- ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
  -->
----
-[![](https://visitcount.itsvg.in/api?id=effati78&icon=6&color=6)](https://www.coffeete.ir/effati78)
+ 
+<br>
+<br>
+
+[![](https://komarev.com/ghpvc/?username=effati78&color=blueviolet&style=flat)](https://www.coffeete.ir/effati78)
