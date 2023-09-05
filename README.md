@@ -1,3 +1,6 @@
+<h1>Rest Mode</h1>
+
+<!--
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/effati78) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/effati78) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12168608) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/effati78) 
 
@@ -10,6 +13,7 @@
 
 [![Reza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=effati78&theme=react-dark&hide_border=true)](https://rezaeffati.ir)
 
+-->
 
 <!--
 ### 🏆 GitHub Trophies
